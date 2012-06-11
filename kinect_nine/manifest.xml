@@ -1,0 +1,19 @@
+<package>
+  <description brief="kinect_nine">
+
+     kinect_nine
+
+  </description>
+  <author>Daniel Madsen</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/kinect_nine</url>
+  <depend package="roscpp"/>
+  <depend package="pcl"/>
+  <depend package="pcl_ros"/>
+  <depend package="std_msgs"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+
